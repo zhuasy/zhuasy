@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Alex, a student at the University of Michigan. I'm currently interning at Sigma Computing.
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuasy&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuasy&theme=dark&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=zhuasy)
 
