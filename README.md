@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Alex, a student at the University of Michigan. I'm currently interning at Sigma Computing.
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuasy)](https://github.com/zhuasy/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=zhuasy)
 
 <!--
 **zhuasy/zhuasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
