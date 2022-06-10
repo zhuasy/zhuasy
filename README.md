@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Alex, a student at the University of Michigan.
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuasy&theme=dark&show_icons=true)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuasy&theme=dark&show_icons=true&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=zhuasy)
 
